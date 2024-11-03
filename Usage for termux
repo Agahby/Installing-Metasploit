@@ -1,0 +1,14 @@
+Termuxa Sorunsuz Şekilde Metasploit Freamework kurmak
+
+KURULUM 
+
+bash
+
+git clone https://github.com/some-man1/Install-and-fix-metasploit-on-termux
+
+cd Install-and-fix-metasploit-on-termux
+
+chmod +x metasploit.sh
+
+bash metasploit.sh 
+(It is not stolen, it was edited and shared by me.)
